@@ -6,6 +6,6 @@
 		"psr-0": {"Composer", "lib/"}
 	},
 	"extra": {
-		"class": "lib\\Composer\Installer"
+		"class": "lib\\Composer\\Installer"
 	}
 }

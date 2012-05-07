@@ -3,9 +3,9 @@
 	"type": "composer-installer",
 	"license": "MIT",
 	"autoload": {
-		"psr-0": {"Composer", "lib/"}
+		"psr-0": {"lib"}
 	},
 	"extra": {
-		"class": "lib\\Composer\\Installer"
+		"class": "lib\\Installer"
 	}
 }

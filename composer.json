@@ -2,4 +2,7 @@
 	"name": "joseym/li3_composer",
 	"type": "composer-installer",
 	"license": "MIT",
+	"extra": {
+		"class": "li3_composer\\lib\\Installer"
+	}
 }

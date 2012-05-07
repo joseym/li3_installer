@@ -3,6 +3,6 @@
 	"type": "composer-installer",
 	"license": "MIT",
 	"extra": {
-		"class": "li3_composer\\lib\\Installer"
+		"class": "joseym\li3_composer\\lib\\Installer"
 	}
 }

@@ -2,9 +2,9 @@
 	"name": "joseym/li3_composer",
 	"type": "composer-installer",
 	"license": "MIT",
-	// "autoload": {
-	// 	"psr-0": {"Composer", "lib/"}
-	// },
+	"autoload": {
+		"psr-0": {"Composer", "lib/"}
+	},
 	"extra": {
 		"class": "lib\\Composer\\Installer"
 	}

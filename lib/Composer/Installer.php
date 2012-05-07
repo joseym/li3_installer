@@ -1,6 +1,6 @@
 <?php
 
-namespace li3_composer\lib;
+namespace li3_composer\lib\Composer;
 
 use Composer\Package\PackageInterface;
 use Composer\Installer\LibraryInstaller;

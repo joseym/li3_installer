@@ -7,6 +7,5 @@
 	},
 		"extra": {
 		"class": "li3_composer\\Composer\\Installer"
-	},
-	"target-dir": "li3_composer"
+	}
 }

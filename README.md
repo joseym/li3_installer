@@ -128,3 +128,8 @@ This is easy, you enter your packagist username (if different from github) and t
 - [I wrote an article explaining why, while Michael's efforts were good, some other problems occurred](http://tumblr.joseymorton.com/post/22289486722/package-management-and-lithium-php)
 
 Have questions or having problems? [Submit an issue](https://github.com/joseym/li3_installer/issues)!
+
+### Props!
+I want to thank my super-awesome employeer, [Vitals](http://www.vitals.com), for sponsoring this (and [other](https://github.com/joseym)) Lithium library development efforts as well as [nwp](http://github.com/nwp) for not yelling when I want to work on some plugins, hell - even encouraging.
+
+Its nice to work for people that understand the value of giving back to the community that offers so much to us.

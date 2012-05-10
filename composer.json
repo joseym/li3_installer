@@ -5,7 +5,7 @@
 	"autoload": {
 		"psr-0": {"li3_composer\\Composer": ""}
 	},
-		"extra": {
+	"extra": {
 		"class": "li3_composer\\Composer\\Installer"
 	},
 	"target-dir": "li3_composer"

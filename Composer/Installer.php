@@ -13,7 +13,7 @@ class Installer extends LibraryInstaller
     public function getInstallPath(PackageInterface $package)
     {
         $prefix = substr($package->getPrettyName(), 0, 23);
-        return "libraries/'.substr($package->getPrettyName(), 23);
+        return substr($package->getPrettyName(), 23);
     }
 
     /**

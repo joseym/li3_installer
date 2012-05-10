@@ -14,7 +14,7 @@ class Installer extends LibraryInstaller
     {
         $prefix = substr($package->getPrettyName(), 0, 23);
         $path = explode('/', $package->getPrettyName());
-        return "test";
+        return "libraries" . $path[1];
     }
 
     /**

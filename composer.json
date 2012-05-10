@@ -1,12 +1,12 @@
 {
-	"name": "joseym/li3_composer",
+	"name": "joseym/li3_installer",
 	"type": "composer-installer",
 	"license": "MIT",
 	"autoload": {
-		"psr-0": {"li3_composer\\Composer": ""}
+		"psr-0": {"li3_installer\\Composer": ""}
 	},
 	"extra": {
-		"class": "li3_composer\\Composer\\Installer"
+		"class": "li3_installer\\Composer\\Installer"
 	},
-	"target-dir": "li3_composer"
+	"target-dir": "li3_installer"
 }

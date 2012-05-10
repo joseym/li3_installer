@@ -130,4 +130,6 @@ This is easy, you enter your packagist username (if different from github) and t
 Have questions or having problems? [Submit an issue](https://github.com/joseym/li3_installer/issues)!
 
 ### Props!
-I want to thank my super-awesome employeer, [Vitals](http://www.vitals.com), for sponsoring this (and [other](https://github.com/joseym)) Lithium library development efforts. Needless to say, [nwp](http://github.com/nwp) is a super cool boss.
+I want to thank my super-awesome employeer, [Vitals](http://www.vitals.com), for sponsoring this (and [other](https://github.com/joseym)) Lithium library development efforts as well as [nwp](http://github.com/nwp) for not yelling when I want to work on some plugins.
+
+Its nice to work for people that understand the value of giving back to the community that offers so much to us.

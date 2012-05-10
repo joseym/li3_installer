@@ -15,7 +15,6 @@
 	"extra": {
 		"class": "li3_installer\\Composer\\Installer"
 	},
-	"target-dir": "li3_installer",
 	"require": {
 		"php": ">=5.3"
 	}

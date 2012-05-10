@@ -17,7 +17,6 @@
 	},
 	"target-dir": "li3_installer",
 	"require": {
-		"php": ">=5.3",
+		"php": ">=5.3"
 	}
-
 }

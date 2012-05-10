@@ -2,11 +2,22 @@
 	"name": "joseym/li3_installer",
 	"type": "composer-installer",
 	"license": "MIT",
+	"authors": [
+		{
+			"name": "Josey Morton",
+			"email": "me@joseymorton.com",
+			"homepage": "https://github.com/joseym"
+		}
+	],
 	"autoload": {
 		"psr-0": {"li3_installer\\Composer": ""}
 	},
 	"extra": {
 		"class": "li3_installer\\Composer\\Installer"
 	},
-	"target-dir": "li3_installer"
+	"target-dir": "li3_installer",
+    "require": {
+		"php": ">=5.3"
+    }
+
 }

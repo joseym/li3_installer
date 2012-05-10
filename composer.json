@@ -3,9 +3,9 @@
 	"type": "composer-installer",
 	"license": "MIT",
 	"autoload": {
-		"psr-0": {"Composer": ""}
+		"psr-0": {"Composer": "\li3_composer"}
 	},
-		"extra": {
+	"extra": {
 		"class": "Composer\\Installer"
 	},
 	"target-dir": "li3_composer"

@@ -10,10 +10,10 @@
 		}
 	],
 	"autoload": {
-		"psr-0": {"Composer": ""}
+		"psr-0": {"li3Installer": ""}
 	},
 	"extra": {
-		"class": "Composer\\Installer"
+		"class": "li3Installer\\Installer"
 	},
 	"require": {
 		"php": ">=5.3"

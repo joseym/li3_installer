@@ -3,7 +3,7 @@
 	"type": "composer-installer",
 	"license": "MIT",
 	"description": "Lithium PHP (li3) 3rd party library installer.",
-	"keywords": ["lithium","installer", "libraries"],
+	"keywords": ["lithium","installer", "libraries", "li3"],
 	"authors": [
 		{
 			"name": "Josey Morton",

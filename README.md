@@ -66,7 +66,7 @@ Here's an example apps `composer.json` file, it will install `li3_smarty`.
 	"name": "lithium-dev",
 	"version": "0.1.0",
 	"config": {
-		"vendor-dir": "libraries"
+		"vendor-dir": "libraries/_source"
 	},
 	"require": {
 		"joseym/li3_smarty": "master"
@@ -74,11 +74,15 @@ Here's an example apps `composer.json` file, it will install `li3_smarty`.
 }
 ~~~
 
-Ok, so first things first, the `config.vendor-dir` tells packages to install in the libraries directory.
+Ok, so first things first, the `config.vendor-dir` tells packages to install in the `libraries/_source` directory.
 
-> I like to keep 3rd party things here but you could essentially make this anything
+> I like to keep 3rd party things here (I like to keep my libraries directory "li3" friendly, only).
 >
-> All li3-libraries packages will be installed in `libraries/li3_packagename` regardless of what is set in `config.vendor-dir` but `li3_installer` will be installed wherever you set `config.vendor-dir`. Do whatever makes you comfortable.
+> Any non-lithium composer packages will now be installed in `libraries/_source`
+>
+> All li3-libraries packages will be installed in `libraries/li3_packagename` regardless of what is set in `config.vendor-dir`.
+>
+> _there is no law stating that this has to be the convention but it makes sense to me_
 
 ## Installing dependencies  with composer
 

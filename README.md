@@ -1,5 +1,12 @@
 # [Composer](http://getcomposer.org) installer package for [Lithium PHP](http://lithify.me)
 
+#### Shakeing up Composer!
+There's been some movement towards centralizing Framework installers for composer. The primary project is called [baton](https://github.com/shama/baton) but there has been [some interest in the community](https://github.com/composer/composer/issues/820) that Composer adopt it as it's own.
+
+If this happens then, obviously, this project will become irrelevant.
+
+I support this request, you should too! Check out Baton, it's swell!
+
 ### Notice
 > This may __look__ like a lithium library, however it is not.
 >
